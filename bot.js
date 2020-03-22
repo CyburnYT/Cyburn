@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 console.log("Allied Ahmed#0001");
-var prefix = "=";
+var prefix = "+";
 client.on("message", message => {
 
             if (message.content.startsWith(prefix + "bc")) {
@@ -27,4 +27,4 @@ client.on('ready', () => {
   client.user.setActivity(`Test`, { type: "Watching" });
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NjkwOTk1NjUzNjUxOTg4NTgw.XnZiAg.Ody2A-aKbchnfmcEFumJo67a8KU);
