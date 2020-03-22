@@ -27,4 +27,4 @@ client.on('ready', () => {
   client.user.setActivity(`Test`, { type: "Watching" });
 });
 
-client.login(process.env.NjkwOTk1NjUzNjUxOTg4NTgw.XnZiAg.Ody2A-aKbchnfmcEFumJo67a8KU);
+client.login(process.env.BOT_TOKEN);
