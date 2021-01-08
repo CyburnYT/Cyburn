@@ -50,10 +50,10 @@ client.on('ready', () => {
 
   client.user.setStatus("dnd");
 
-  client.user.setActivity("LegendTeam.de", { type: "playing" });
+   client.user.setActivity(LegendTeam.de`, { type: "playing" });
 
 });
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.run(NzAyODY0NjUyODUzMzEzNjE4.XqGPtw.WPE9ybsyf9Fgf5jVyoDhd_fJKCw);
