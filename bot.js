@@ -50,7 +50,7 @@ client.on('ready', () => {
 
   client.user.setStatus("dnd");
 
-  client.user.setActivity(LegendTeam.de`, { type: "playing" });
+  client.user.setActivity("LegendTeam.de", { type: "playing" });
 
 });
 
